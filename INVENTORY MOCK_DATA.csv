@@ -1,0 +1,1001 @@
+ProductID,Product_name,Price$,Stock_Level
+1,SALSOLA KALI POLLEN,2.99,1
+2,Alprazolam,5.99,8
+3,Ibuprofen and Pseudoephedrine Hydrochloride,249.99,2
+4,Good Sense Nicotine,129.99,3
+5,Aveeno Positively Ageless Complete Anti Aging System,5.79,8
+6,Propranolol Hydrochloride,2.99,9
+7,Carbidopa and Levodopa,2.99,3
+8,Systane Nighttime,2.49,5
+9,Zapotol Clotrimazole,24.99,8
+10,Roll-On Antiperspirant,34.99,3
+11,modafinil,14.99,1
+12,SACCHAROMYCES CEREVISIAE,19.99,3
+13,Homeopathic Wart,39.99,1
+14,ACTIPREP,24.99,1
+15,Diabetes,19.99,7
+16,Glipizide,39.99,9
+17,Diphenhydramine HCl,3.29,2
+18,AK-FLUOR,10.99,8
+19,Secret Antiperspirant/Deodorant,24.99,3
+20,False Ragweed,89.99,0
+21,"Pollens - Trees, Birch Mix",19.99,6
+22,NEXIUM,79.99,0
+23,Amantadine HCl,3.79,8
+24,Camilia,19.99,4
+25,Rocky Mountain KIDS Broad Spectrum SPF 30,2.49,2
+26,Diltiazem Hydrochloride,12.99,9
+27,Lisinopril,69.99,1
+28,Dandelion Pollen,69.99,5
+29,Zidovudine,22,0
+30,Verapamil Hydrochloride,4.99,9
+31,SAVELLA,12.99,2
+32,COLIC with GAS,3.49,2
+33,Heparin Sodium,3.29,7
+34,Lorazepam,2.49,2
+35,Zoloft,54.99,7
+36,flormar PERFECT COVERAGE FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 15 113 Medium Beige,24.99,3
+37,Zosyn,3.99,5
+38,Insects (whole body) cockroach mix,49.99,6
+39,CEFTRIAXONE,29.99,7
+40,Topcare stay awake,199.99,9
+41,Candida I,49.99,7
+42,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",12.99,9
+43,Naphazoline,59.99,9
+44,LBEL COULEUR LUXE AMPLIFIER XP,6.99,9
+45,HPZ,12.99,4
+46,Methylphenidate Hydrochloride,3.29,4
+47,Risperidone,19.99,2
+48,Antiseptic,5.49,4
+49,Smart Sense Pain Relief,19.99,5
+50,Naprelan,6.99,0
+51,Highmark Professional Gold and Clean Antimicrobial Ltn Sp,4.29,0
+52,Antimicrobial,19.99,1
+53,Pacific,99.99,2
+54,Trileptal,14.99,0
+55,Levofloxacin,19.99,9
+56,Zentrip,4.29,5
+57,Parsley,109.99,9
+58,Slash Pine,2.79,3
+59,Panrosa Antibacterial Hand With Moisturizers,49.99,0
+60,Raspberry Hand Sanitizer,2.49,6
+61,Arnica,49.99,2
+62,Dr. Oberon Original Snail Cream,4.99,4
+63,Nitrogen,9.99,5
+64,Levetiracetam,2.99,0
+65,Risperidone,34.99,2
+66,LBEL EFFET PARFAIT Spots Reducing Effect Foundation SPF 18 - MEDIUM 6,249.99,8
+67,ANTIBACTERIAL HSOAP,79.99,1
+68,SUMATRIPTAN SUCCINATE,5.49,3
+69,Ultra-TechneKow,3.49,2
+70,IVA ANNUA VAR ANNUA POLLEN,12.99,8
+71,Amoxicillin,39.99,8
+72,Ibuprofen,99.99,8
+73,Prilosec OTC,2.49,9
+74,Complexion Brightener SPF20,4.49,9
+75,Naproxen,29.99,0
+76,Diclofenac Potassium,7.19,4
+77,Venlafaxine Hydrochloride,4.99,8
+78,benzoyl peroxide,349.99,9
+79,LOCCITANE,49.99,5
+80,Vite20,39.99,3
+81,Methylphenidate Hydrochloride,149.99,4
+82,Grama Grass,2.99,2
+83,Dorzolamide HCl,89.99,7
+84,miconazole 3,4.29,1
+85,Nystatin,199.99,2
+86,INSTANT HAND SANITIZER,1.89,2
+87,Detrol LA,1.49,6
+88,ck one all day perfection face makeup,10.99,0
+89,Glipizide,16.99,5
+90,MoviPrep,39.99,9
+91,SUN PREMIUM FACE 50 SPF,3.79,3
+92,Medroxyprogesterone Acetate,4.99,2
+93,infants acetaminophen,59.99,5
+94,Femring,59.99,6
+95,Physostigmine Salicylate,39.99,9
+96,Pazol,39.99,6
+97,CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 108,18.99,6
+98,Pain Relief Extra Strength,4.29,4
+99,Otis Clapp Ultraprin,34.99,2
+100,NITROGEN,39.99,8
+101,HAVRIX,29.99,0
+102,Nystatin and Triamcinolone Acetonide,19.99,3
+103,NITROGEN,3.99,5
+104,Miochol E,39.99,8
+105,EPIVIR,14.99,2
+106,SWEATBLOCK,4.49,1
+107,SHISEIDO SHEER MATIFYING COMPACT (REFILL),4.99,4
+108,COUMADIN,14.99,8
+109,Sumatriptan Succinate,24.99,3
+110,Vancocin,2.99,4
+111,rea lo 40,10.99,0
+112,CAULOPHYLLUM THALICTROIDES,15.99,9
+113,NP Thyroid 60,3.89,7
+114,Childrens Pain and Fever,2.99,2
+115,T.R.U.E. Test,49.99,2
+116,ZOVIRAX,4.99,7
+117,Minocycline Hydrochloride,2.29,5
+118,GIVEN BY NATURE ALOE MASK SHEET,2.49,4
+119,Rizatriptan Benzoate,7.99,4
+120,Chlorothiazide,1.5,0
+121,Sodium Edecrin,29.99,1
+122,Simvastatin,199.99,3
+123,Trichophyton rubrum,6.99,2
+124,Clear,129.99,3
+125,PLENDIL,79.99,3
+126,Primsol,49.99,8
+127,Risperidone,4.49,3
+128,Homeopathic Remedy Kit 30c,2.99,4
+129,TRANZGEL,3.29,9
+130,SODIUM CHLORIDE,39.99,7
+131,Telmisartan and Amlodipine,9.99,1
+132,Meloxicam,16.99,2
+133,TopCare Antacid Calcium,1.29,9
+134,Alfuzosin Hydrochloride,19.99,7
+135,Enoxaparin Sodium,3.49,4
+136,Atropine Sulfate,39.99,0
+137,Hydroxyzine Pamoate,2.79,9
+138,ESIKA,29.99,2
+139,GALANTAMINE HYDROBROMIDE,34.99,5
+140,Dopram,7.99,2
+141,Actemra,4.29,3
+142,Pranactin-Citric,9.49,2
+143,L OCCITANE FRESH BODY with Organic Verbena Extract SPF25 Broad Spectrum Sunscreen,19.99,3
+144,Pro Advantage Antibacterial,6.99,0
+145,Cetrizine Hydrochloride,5.49,1
+146,Melatonin Forte,22.99,6
+147,Major Prep Hemorrhoidal,34.99,7
+148,Flagyl,45.99,6
+149,PRINIVIL,2.79,6
+150,Luminous Goddess Aura BB,34.99,1
+151,SHISEIDO PERFECT REFINING FOUNDATION,69.99,4
+152,Cleanse Remedy Water,39.99,4
+153,DERMA GRAN,4.99,2
+154,Snow Drop Antibacterial Foaming Hand Wash,14.99,0
+155,Lamivudine and Zidovudine,4.99,8
+156,RANITIDINE,4.19,9
+157,BabyGanics Alcohol Free Foaming Hand Sanitizer,34.99,7
+158,Hydrochlorothiazide,9.99,7
+159,CY BETTER LIPS BALM Humectante para Labios con color FPS 18,25.99,2
+160,RHODOTORULA RUBRA,3.99,4
+161,Risperidone,6.99,1
+162,Belli Acne Control Spot Treatment,6.49,8
+163,English Plantain,2.79,0
+164,Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution,4.5,7
+165,Thiamine Hydrochloride,34.99,3
+166,Omeprazole,2.99,6
+167,Plasmanate,89.99,7
+168,FENOFIBRATE,7.49,2
+169,Matzim LA,99.99,1
+170,Oxaliplatin,29.99,1
+171,Urban Decay Naked Skin Light Beauty Balm SPF20,34.99,4
+172,PLATANUS OCCIDENTALIS POLLEN,12.99,1
+173,Dial Complete Antibacterial Foaming Hand Wash,4.99,7
+174,Zolpidem Tartrate,29.99,6
+175,NoHist DM,34.99,0
+176,AZITHROMYCIN,6.29,6
+177,Coppertone oil free,4.99,3
+178,Immune Support System,3.49,1
+179,Assured Night time Cold and Cough,5.99,0
+180,amoxicillin and clavulanate potassium,2.49,7
+181,Hydroxychloroquine Sulfate,2.49,9
+182,Xopenex,3.79,4
+183,OxyContin,44.99,1
+184,CLADOSPORIUM SPHAEROSPERMUM,39.99,2
+185,Oral Peroxide,3.29,0
+186,Bacterial Reliever,4.49,5
+187,Nite Time Cold and Flu,2.69,9
+188,OPTICAL ADVANCED EYE,79.99,8
+189,Naso-Heel,19.99,1
+190,Fanatrex,22.99,8
+191,VYTORIN,6.99,9
+192,Trazodone Hydrochloride,6.49,3
+193,Air,2.99,6
+194,leader miconazole 1,7.99,9
+195,Octreotide Acetate,34.99,3
+196,OXYGEN,14.99,5
+197,Stalevo,3.29,3
+198,lubricating relief,34.99,1
+199,Stress - Tension,22.99,8
+200,Omeprazole,299.99,5
+201,Aspiera Anti-Fungal,39.99,6
+202,Loblolly Pine,89.99,1
+203,Caldesene Baby,22.99,1
+204,Bryonia Stannum,34.99,8
+205,Ciprofloxacin,5.29,7
+206,Topcare Cough and Sore Throat,2.79,4
+207,Atenolol,149.99,6
+208,Zinc Sulfate,24.99,7
+209,kids throat,199.99,5
+210,Polygonum,3.49,1
+211,ARNICA,39.99,7
+212,mally Face Defender Foundation BB,1.99,2
+213,BETULA LENTA POLLEN,9.99,3
+214,Pravastatin sodium,3.29,6
+215,Varicose Veins - Phlebitis,7.49,8
+216,nighttime sleep aid,4.19,2
+217,HYVEE,12.99,4
+218,Urban Decay Naked Skin Light Beauty Balm SPF20,4.49,3
+219,Isopropyl Alcohol,3.49,1
+220,CareOne Nicotine,9.99,6
+221,Refresh Foaming Instant Hand Sanitizer,19.99,4
+222,Meloxicam,24.99,9
+223,ActivOn Ultra Strength Arthritis,6.99,0
+224,STIFF JOINTS HP,4.29,9
+225,ChloraPrep One-Step,69.99,3
+226,ESIKA HD COLOR HIGH DEFINITION COLOR SPF 20,12.99,5
+227,Coralite Topical Analgesic Capsaicin Heat,2.49,5
+228,Protriptyline Hydrochloride,29.99,1
+229,Levothyroxine Sodium,24.99,8
+230,Antibacterial Moist Wipes,34.99,5
+231,Pantoprazole Sodium,199.99,7
+232,METOPROLOL SUCCINATE,2.19,9
+233,Ultra-TechneKow,7.49,1
+234,Niaspan,9.99,9
+235,Advil,149.99,6
+236,Grapefruit,29.99,2
+237,Up and Up Nicotine,2.49,9
+238,Leucovorin Calcium,29.99,2
+239,Alprazolam,4.99,3
+240,Moisturizing Hand Sanitizer,4.79,4
+241,LBEL divine lip gloss SPF 15,14.99,3
+242,GEMCITABINE HYDROCHLORIDE,9.99,6
+243,Redness reliever,8.49,1
+244,Cyclophosphamide,3.49,2
+245,Low Dose Aspirin,5.99,9
+246,AMOXICILLIN,2.99,3
+247,Clonidine Hydrochloride,49.99,4
+248,Lemon,3.99,7
+249,Metronidazole,39.99,4
+250,Tafinlar,4.99,9
+251,Sheer Tint,299.99,6
+252,Quetiapine fumarate,59.99,7
+253,Acetaminophen and Diphenhydramine HCl,59.99,6
+254,Myoflex Pain Relieving Cream,19.99,3
+255,Oxygen,4.99,0
+256,Meropenem,3.49,3
+257,Argentum Vesica urinaria 8/5 Special Order,49.99,6
+258,WESTERN JUNE GRASS POLLEN,99.99,0
+259,Sweet Potato,199.99,3
+260,Good Sense Night Time,2.49,1
+261,Ergocalciferol,44.99,7
+262,Allergy Relief,3.29,1
+263,Nighttime sleep aid,3.29,5
+264,Head and Shoulders Conditioner,59.99,8
+265,SHISEIDO UV PROTECTIVE COMPACT (REFILL),4.29,5
+266,NephrAmine,6.99,4
+267,Lescol,0.99,1
+268,Insomnia,19.99,4
+269,Cyclobenzaprine Hydrochloride,3.79,9
+270,E.E.S,69.99,8
+271,Cefprozil,6.49,0
+272,Witch Hazel,249.99,4
+273,Topcare Cold and Cough,24.99,2
+274,Catapres,69.99,8
+275,Treatment Set TS339813,19.99,4
+276,Fluticasone Propionate,5.99,2
+277,TUMS,25,9
+278,Miconazole Nitrate,69.99,2
+279,Acne Care,14.99,8
+280,Deep Cleaning Mask,34.99,0
+281,AZITHROMYCIN,69.99,6
+282,Category II,18.99,9
+283,Pain Relief PM,22.99,0
+284,CLENZIDERM THERAPEUTIC,39.99,4
+285,healthy accents cold and allergy,22.99,0
+286,Hydralazine Hydrochloride,59.99,2
+287,Ladys Choice Invisible Solid,14.99,0
+288,Venlafaxine Hydrochloride,3.99,3
+289,RespiratoryCare,39.99,8
+290,Fresh Umbrain Clay Freshface Foundation SPF 20 Croisette,4.49,1
+291,Bio Aspen,5.99,0
+292,Prascion,24.99,8
+293,IMIPRAMINE PAMOATE,39.99,8
+294,Suboxone,3.49,7
+295,Monistat 3 Combination Pack,5.49,8
+296,Ibuprofen,34.99,6
+297,Antibacterial Hand Mousse,1.29,4
+298,VITALUMIERE AQUA,2.79,1
+299,First Aid Antibiotic Pain Relief,15.99,9
+300,Lip Balm SPF 15,22.99,1
+301,Giant Wild Rye,3.29,0
+302,Glyburide and Metformin Hydrochloride,1.99,8
+303,MSM (MoSaengMo),5.49,9
+304,Greasewood,4.99,3
+305,Cefazolin,24.99,1
+306,Helium Oxygen,179.99,6
+307,Sulphur 30C,12.99,1
+308,StarCap Medical Private Limited,4.99,7
+309,Metoprolol Tartrate,49.99,2
+310,Olanzapine,19.99,6
+311,Jantoven,39.99,3
+312,NEUTRACETT,39.99,3
+313,"Molds, Rusts and Smuts, Candida albicans",0.99,1
+314,Childrens Acetaminophen,15.99,8
+315,VAGI-CURE (MAXIMUM STRENGTH),3.99,9
+316,Dermisa,4.49,9
+317,temazepam,1.89,4
+318,Vinorelbine,12.99,2
+319,Ketoprofen,34.99,0
+320,Maximum Strength Laxative,39.99,3
+321,Head and Shoulders,3.99,6
+322,Lisinopril,3.49,8
+323,Ortho-Nesic With Capsaicin,29.99,5
+324,Red Cross Oral Pain Relief,5.99,4
+325,Viread,3.49,3
+326,Heparin Sodium,1.99,9
+327,Didanosine,4.99,0
+328,Neutrogena Oil Free Acne Stress Control,2.89,3
+329,Buspirone Hydrochloride,29.99,3
+330,Welchol,15.99,7
+331,D-CAL,5.99,9
+332,Felodipine,49.99,1
+333,Lidocaine Hydrochloride,79.99,8
+334,Nicotine,15.99,0
+335,Fluoxetine,3.19,7
+336,FRAXINUS AMERICANA POLLEN,2.29,9
+337,antacid,6.49,7
+338,Penicillin V Potassium,5.99,3
+339,Cinchona Officinalis Kit Refill,3.99,8
+340,Clear Eyes Maximum Redness Relief,14.99,4
+341,Fluconazole,14.99,9
+342,esika,39.99,5
+343,Pantoprazole Sodium,249.99,3
+344,Temozolomide,2.99,7
+345,Varithena,14.99,3
+346,Metformin Hydrochloride,19.99,2
+347,Hydrocodone Bitartrate And Acetaminophen,44.99,0
+348,"Antibacterial Hand Cleanser, Non-Alcohol",8.99,4
+349,Allergy Eye Drops,14.99,1
+350,Lovastatin,2.49,3
+351,Ropinirole,4.89,2
+352,Chlorzoxazone,3.59,4
+353,Triamterene and Hydrochlorothiazide,15.99,2
+354,ACETAMINOPHEN AND CODEINE PHOSPHATE,39.99,8
+355,dg health Ibuprofen pm,4.99,1
+356,Divalproex Sodium,89.99,8
+357,Fresh Sugar Kisses Sugar Rose Tinted Lip Treatment SPF 15 and Sugar PlumTinted Lip Treatment SPF 15,24.99,0
+358,"Standardized Grass Pollen, Timothy",44.99,8
+359,Contessa,39.99,4
+360,Lamotrigine,4.29,1
+361,Trospium Chloride,59.99,0
+362,Gabapentin,3.59,0
+363,Kadian ER,1.99,4
+364,Daytime Cold and Flu Relief,3.49,4
+365,Number Seven Tree Mixture,19.99,6
+366,Felbamate,18.99,1
+367,PERCOCET,3.99,9
+368,Levitra,1.29,7
+369,Tomato,1.29,5
+370,TRIFLUOPERAZINE,24.99,3
+371,Metoprolol Tartrate,44.99,0
+372,AMLODIPINE BESYLATE,24.99,1
+373,SPRYCEL,10.99,1
+374,INVEGA SUSTENNA,2.99,9
+375,"Pollens - Weeds, Dock/Sorrel Mix",39.99,8
+376,Simvastatin,19.99,7
+377,Rocky Mountain Sunscreen,1.5,3
+378,Nortriptyline Hydrochloride,49.99,2
+379,Geodon,2.29,5
+380,Good Neighbor Pharmacy Acid Control 150,3.89,3
+381,Childrens MOTRIN,2.79,1
+382,Sore Throat,3.49,8
+383,biclora,6.99,9
+384,Australian Gold,14.99,1
+385,Sivil 40 (Number 24),3.49,8
+386,Phenylephrine Hydrochloride,19.99,5
+387,Justice Cotton Candy Scent ANTI BAC HAND SANITIZER,59.99,8
+388,Proactiv Sheer Tint Moisture,1.79,3
+389,Simulect,1.29,8
+390,CLE DE PEAU BEAUTE,249.99,9
+391,Fluoxetine,9.99,7
+392,Sumaxin,4.79,9
+393,StaLean,349.99,0
+394,Lexapro,24.99,9
+395,Instant Hand Sanitizer Fresh Aloe,22.99,5
+396,CEPHALOTHECIUM ROSEUM,29.99,9
+397,good neighbor pharmacy Lice,3.49,6
+398,ropinirole,8.99,7
+399,CellCept,12.99,1
+400,Arnica Berberis Teucrium,59.99,2
+401,SERTRALINE HYDROCHLORIDE,49.99,6
+402,IRINOTECAN HYDROCHLORIDE,34.99,6
+403,Oxygen,3.99,4
+404,Carvedilol,4.99,1
+405,Heparin Sodium,129.99,4
+406,Monilia Mixture,3.49,1
+407,GUNA-IL 8,1.99,8
+408,Cardiotone,5.79,3
+409,BRIGHTER BY NATURE,24.99,9
+410,Ceftriaxone,29.99,0
+411,Renuee,2.49,5
+412,Doxazosin,3.99,0
+413,Moexipril Hydrochloride and Hydrochlorothiazide,24.99,5
+414,Oxycodone and Acetaminophen,4.99,8
+415,Cystoforce,3.99,6
+416,"Butalbital, Aspirin and Caffeine",49.99,7
+417,leader lice treatment,18.99,6
+418,Glucotrol,7.49,5
+419,Opana ER,3.99,6
+420,Gelato Topical Anesthetic,1.29,1
+421,Lovastatin,2.49,1
+422,SORBITOL,89.99,1
+423,laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen MOCHA,29.99,3
+424,METHIMAZOLE,1.99,0
+425,Effexor,3.59,8
+426,Afinitor,3.99,9
+427,TopCare,22.99,2
+428,Tramapap,4.99,8
+429,amoxicillin and clavulanate potassium,19.99,5
+430,ECHINACEA PURPUREA,4.29,8
+431,healthy accents cetirizine hydrochloride,8.49,9
+432,Diazepam,2.49,9
+433,HUSKY 515,3.29,6
+434,CARBIDOPA AND LEVODOPA,99.99,6
+435,Fenofibrate,69.99,0
+436,Lymph Plus,2.29,8
+437,Medrol,79.99,7
+438,Sleep Tabs,9.99,5
+439,sunmark Cold,299.99,0
+440,Leader Childrens Pain and Fever,2.99,0
+441,Petroleum,5.99,0
+442,gentle laxative for women,3.99,6
+443,Relpax,5.49,3
+444,Renvela,59.99,1
+445,Rhodotorula mucilaginosa,1.79,2
+446,Antimicrobial Hand Sanitizer,19.99,0
+447,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,9.99,7
+448,Flounder,129.99,3
+449,Furosemide,4.99,8
+450,Acetaminophen,1.99,5
+451,cephalexin,3.99,1
+452,Metronidazole Topical Gel,3.29,0
+453,Brome Grass,3.59,2
+454,HAND AND NATURE SANITIZER,4.79,5
+455,Midodrine Hydrochloride,4.49,7
+456,Badger Unscented SPF 15 Sunscreen,19.99,7
+457,ATORVASTATIN CALCIUM,39.99,8
+458,Ephedrine,1.99,2
+459,Escitalopram,39.99,4
+460,Mucus Relief DM,0.79,7
+461,Levofloxacin,3.99,8
+462,ALDURAZYME,59.99,3
+463,Jock Itch,69.99,9
+464,Ketoprofen,6.99,5
+465,Morphine Sulfate,29.99,9
+466,Ziprasidone,5.99,8
+467,Sulfamethoxazole and Trimethoprim,4.99,3
+468,Bupropion Hydrochloride,15.99,4
+469,Valsartan and Hydrochlorothiazide,9.49,9
+470,Hydrochlorothiazide,4.29,8
+471,Premphase,2.99,1
+472,Tinted Moisturizer SPF 20,49.99,6
+473,mupirocin,4.49,1
+474,muscle rub,39.99,3
+475,Pain Relief,4.99,2
+476,Beauty Dynamics,4.99,5
+477,Softsoap Aquatic Splash Antibacterial with light Moisturizers,19.99,2
+478,Keppra,19.99,6
+479,biclora,99.99,8
+480,Theophylline,6.89,1
+481,bareMinerals bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20,39.99,9
+482,Quality Choice Cold and Sore Throat,29.99,2
+483,hydrocortisone acetate pramoxine hcl,29.99,9
+484,Cymbalta,19.99,8
+485,No7 CC,9.99,9
+486,Salmon,7.99,2
+487,Ampicillin,22.99,5
+488,Irbesartan,3.29,5
+489,Buenos Dias de Personna,8.99,7
+490,JEUNCELL Hair Loss Prevention and Hair Growth Tonic,19.99,5
+491,ELAPRASE,34.99,3
+492,Cold Spot,49.99,0
+493,Whitening,69.99,6
+494,Cold Head Congestion Daytime / Nighttime,15.49,8
+495,Avelox,24.99,3
+496,Meclizine Hydrochloride,39.99,6
+497,Simvastatin,39.99,6
+498,Furosemide,1.99,5
+499,FeRiva,4.59,0
+500,IVA ANNUA VAR ANNUA POLLEN,3.99,9
+501,SyImmune,49.99,7
+502,Puritan,5.99,9
+503,SIVEXTRO,49.99,7
+504,Ibuprofen,6.99,1
+505,Hydrochlorothiazide,4.99,9
+506,HOLYWOOD BEAUTY,29.99,2
+507,Good Sense Acid Reducer,12.99,1
+508,pain relief,9.99,3
+509,Tirosint,39.99,2
+510,Onfi,3.29,1
+511,Ibuprofen and Pseudoephedrine Hydrochloride,2.99,9
+512,Pink Peony Antibacterial Foaming Hand Wash,59.99,2
+513,Midodrine Hydrochloride,4.99,6
+514,athletes foot,14.99,9
+515,Tempra,4.19,0
+516,Metoprolol Tartrate,29.99,6
+517,Carbogen,3.29,6
+518,Number Seven Tree Mixture,6.49,0
+519,GIVEN BY NATURE OLIVE MASK SHEET,29.99,1
+520,Naproxen,1.29,0
+521,Lithium Carbonate,4.79,6
+522,care one nasal decongestant pe,18.99,6
+523,Happy Bones,29.99,6
+524,Dexmethylphenidate Hydrochloride,2.49,2
+525,Whitening Repairing Cover Cushion,4.49,5
+526,Headache,34.99,8
+527,Antacid Antigas Maximum Strength,2.99,8
+528,Triple Antibiotic,1.99,3
+529,Naproxen,1.29,1
+530,Antibacterial Foaming Hand Cleanser,99.99,0
+531,Gabapentin,2.49,7
+532,Spascupreel,2.89,5
+533,CARE ONE,3.99,2
+534,"Detox and Drainage, Blood and Kidney",2.49,4
+535,Equaline Cough DM,49.99,5
+536,Cymbalta,6.49,6
+537,Cereus,8.99,6
+538,Betadine,2.69,6
+539,Morgidox,5.49,1
+540,Timoptic,3.49,8
+541,Formucare Triple Antibiotic,7.99,8
+542,Ropinirole Hydrochloride,34.99,0
+543,shoprite allergy and congestion relief,4.99,1
+544,Lidocaine Hydrochloride,3.29,0
+545,Carelessweed,24.99,0
+546,Hydrocortisone,3.49,4
+547,Lyrica,0.75,9
+548,Orajel,39,1
+549,Optimal HCG Diet Plan,12.99,2
+550,Deceitful,15.99,3
+551,ESIKA,4.19,7
+552,PROAIRHFA,3.89,6
+553,Alphadine Scrub Foam,49.99,8
+554,PINTO BEAN,29.99,7
+555,Epinephrine,1.49,5
+556,Dry Scalp Dandruff,3.99,3
+557,Sodium Chloride,5.29,9
+558,Guinea Pig Epithelium,2.49,1
+559,CVS Fast Clearing Medicated Pads,4.99,5
+560,Omeprazole,14.99,4
+561,mapap,14.99,9
+562,Sheer Cover Nourishing Moisturizer,5.99,1
+563,Motion Sickness Relief,3.49,6
+564,Hand Sanitizer,39.99,0
+565,Health Mart gas relief,44.99,8
+566,Azithromycin Dihydrate,1.29,8
+567,Sprintec,2.49,6
+568,Gelato APF,4.49,7
+569,PAROXETINE,2.99,5
+570,Glycopyrrolate,4.99,2
+571,CENTER-AL - QUERCUS ALBA POLLEN,9.99,6
+572,Furosemide,2.99,5
+573,Pumpkin pie anti-bacterial SCENTED HAND SANITIZER,2.99,3
+574,Metoprolol Succinate,34.99,6
+575,Good Sense Heartburn Relief,7.49,7
+576,SOLIE EYE,3.49,3
+577,Fenoprofen Calcium,1.99,3
+578,ASPIRIN,3.79,9
+579,CVS Pharmacy Sport SPF 50,3.49,2
+580,Focalin,6.99,4
+581,adult severe congestion and cough,2.49,1
+582,Salsalate,24.99,8
+583,Butorphanol Tartrate,39.99,3
+584,Famotidine,4.49,3
+585,Mycophenolic Acid,29.99,7
+586,Olanzapine,39.99,0
+587,CEFTRIAXONE,34.99,1
+588,Clonazepam,5.49,8
+589,Indapamide,9.99,8
+590,CENTER-AL - CARYA ILLINOINENSIS POLLEN,3.99,3
+591,SUMATRIPTAN SUCCINATE,49.99,1
+592,Famotidine,3.99,2
+593,IOPE MILD CLINIC SUN PROTECTOR,1.89,2
+594,Q Tussin DM,3.99,2
+595,"Sweet Vernal Grass, Standardized",8.99,0
+596,Birch Juniper Rejuvenation,4.79,9
+597,Collagen 6 Special Order,34.99,8
+598,PROVIGIL,19.99,7
+599,Terrasil Boil Pain Relief,2.99,9
+600,Sheer Tint,5.49,1
+601,MINERAL WEAR TALC FREE MINERAL AIRBRUSHING BRONZER,29.99,5
+602,ALOE SUN BB,25,8
+603,Ulta Lavender Woods Anti-Bacterial Hand Sanitizer,27.99,0
+604,Lidocaine,79.99,9
+605,Arterioforce,29.99,0
+606,rx act ibuprofen pm,149.99,0
+607,On Guard Hand Sanitizing Wipe,39.99,1
+608,ceftriaxone,5.99,4
+609,Naproxen,3.29,8
+610,citalopram hydrobromide,79.99,0
+611,Hormeel,2.89,1
+612,Erythrocin Stearate,4.19,2
+613,Menthol and Methyl Salicylate,6.29,1
+614,AQUAFRESH,2.99,0
+615,Advil PM,3.29,6
+616,PETROLATUM,2.49,6
+617,Lovastatin,2.99,1
+618,Divalproex Sodium,23.99,0
+619,ZITHROMAX,39.99,9
+620,IBU,3.29,6
+621,Rifadin IV,49.99,9
+622,Paroxetine,3.99,8
+623,Warfarin Sodium,19.99,2
+624,Folic Acid,79.99,7
+625,venlafaxine hydrochloride,3.99,0
+626,CLE DE PEAU BEAUTE REFINING FLUID FOUNDATION,19.99,3
+627,Eczema Skin Care,4.19,6
+628,HydroSkin,24.99,6
+629,Gentle Eczema Balm,6.49,9
+630,ARC FIRST AID Contains 303 PIECES,3.49,8
+631,Karavita Face Essential with SPF 15,3.29,7
+632,Citalopram,1.29,9
+633,Impact Fix Pure Essence Foundation,39.99,3
+634,Sun Defense UVscreen SPF 48,89.99,3
+635,Quetiapine Fumarate,6.99,1
+636,Propylthiouracil,3.99,3
+637,dg health antacid,29.99,3
+638,Peter Island Kids Sunscreen,22.99,5
+639,Anticavity Fluoride Rinse,49.99,0
+640,Nausea and Motion Sickness,59.99,7
+641,Nystatin,14.99,0
+642,Senna Laxative plus Stool Softener,49.99,3
+643,Treatment Set TS351125,39.99,4
+644,Hemorrhoid Complex,49.99,0
+645,Metoprolol Tartrate,4.99,9
+646,flormar REBORN FOUNDATION SUNSCREEN BROAD SPECTRUM SPF 20 SF27 Capuccino,89.99,4
+647,Oxymorphone Hydrochloride,3.49,5
+648,Instant Hand Sanitizer - Clear,24.99,5
+649,Sodium Chloride,14.99,9
+650,CC Cream Medium,6.89,2
+651,Codfish,49.99,1
+652,Antibacterial Hand,49.99,3
+653,Major Prep Hemorrhoidal,89.99,2
+654,TOLMETIN SODIUM,3.99,0
+655,PainDefense,2.99,5
+656,flormar BB Sheer Tinted Beauty Sunscreen Broad Spectrum SPF 15 04 Medium Beige,39.99,0
+657,SALONPAS PAIN RELIEVING,14.99,3
+658,Urban Defense,54.99,6
+659,cephalexin,54.99,9
+660,Triamcinolone Acetonide,89.99,3
+661,Beyond Color,4.99,8
+662,Exelon,22.99,8
+663,Ondansetron Hydrochloride and Dextrose,3.79,1
+664,Analgesic,22.99,6
+665,Rejuvity moisturizing day cream BROAD SPECTRUM SPF 15 SUNSCREEN,79.99,3
+666,ALOE UP PRO SPF 50 ADVANCED FORMULA,2.59,6
+667,Miconazole 7,5.49,3
+668,Soothing Moisturizing,29.99,5
+669,SEROQUEL,4.99,4
+670,Telmisartan and Amlodipine,2.99,0
+671,Integra F,49.99,4
+672,Topiramate,24.99,9
+673,omeprazole/sodium bicarbonate,4.99,4
+674,Zosyn,129.99,3
+675,Privet,39.99,2
+676,Bupropion Hydrochloride,4.99,7
+677,Antibacterial Hand Mousse,4.49,4
+678,Sodium Acetate,29.99,1
+679,Dial Mountain Fresh Antibacterial Body Wash,34.99,6
+680,Imipramine Hydrochloride,49.99,5
+681,Zidovudine,7.99,2
+682,Hydromorphone HCl,3.19,3
+683,7 Select Acid Reducer,4.29,6
+684,Alprazolam,5.29,0
+685,Levetiracetam,3.49,6
+686,BestHealth Cough Relief Sugar Free Cherry Flavor,2.29,3
+687,Hydroxyzine Hydrochloride,3.49,0
+688,NEUROSPORA INTERMEDIA,9.99,6
+689,Allergy Relief,3.99,9
+690,SINUS PAIN AND CONGESTION DAYTIME,34.99,7
+691,Sysco,3.29,4
+692,Cetirizine Hydrochloride,2.89,9
+693,DESONATE,22.99,5
+694,Candesartan Cilexetil,29.99,6
+695,Oxybutynin Chloride,79.99,0
+696,Neutrogena MoistureShine Lip Soother,3.99,1
+697,FLUCAINE,25,4
+698,Skin Activator Day,49.99,9
+699,Metformin Hydrochloride,24.99,8
+700,Nitrofurantoin Monohydrate/ Macrocrystalline,18.99,4
+701,RULOX REGULAR,89.99,0
+702,Digestive Care,3.49,5
+703,Arizona Ash Pollen,34.99,3
+704,Dove,1.5,5
+705,Ovace,3.29,4
+706,Pedipirox-4 Nail Kit,1.99,7
+707,Nitrofurantoin Monohydrate/ Macrocrystalline,54.99,5
+708,Ibuprofen,7.99,5
+709,ERY-TAB,39.99,2
+710,Oxygen,3.99,9
+711,risedronate sodium,29.99,8
+712,Allernest,6.99,5
+713,Dill,2.29,4
+714,LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15,12.99,7
+715,BYDUREON,5.49,6
+716,epinephrine,2.99,0
+717,Timolol Maleate,14.99,0
+718,"carbidopa, levodopa and entacapone",24.99,4
+719,Pomalyst,5.49,5
+720,CAUSTICUM,1.99,6
+721,Eye Allergy Relief,299.99,5
+722,Anti-Diarrheal,19.99,5
+723,Ibuprofen,2.99,2
+724,Rivastigmine Tartrate,39.99,4
+725,COLLAGEN RESURGENCE MASK,3.29,1
+726,Roota Re F for men,39.99,2
+727,CD DiorSkin Forever Flawless Perfection Fusion Wear Makeup SPF 25 - 010,14.99,0
+728,Flavoxate Hydrochloride,5.99,0
+729,Nicotine,29.99,4
+730,MoReturn Hair Tonic,39.99,5
+731,Nystatin and Triamcinolone,89.99,1
+732,ESIKA HYDRACOLOR 2 IN 1 HIGHLY MOISTURIZING AND COLORING SPF 25,1.99,7
+733,SINGULAIR,6.99,2
+734,Hydrocortisone,89.99,3
+735,Childrens Non Aspirin,35,8
+736,CLARINS Skin Illusion SPF 10 Natural Radiance Foundation Tint 115,39.99,4
+737,Rifadin IV,3.99,2
+738,Cialis,2.79,9
+739,Advanced Healing Diabetic Skin Care,4.49,7
+740,Lemon Lime Hand Sanitizer,24.99,2
+741,Lansoprazole,29.99,6
+742,Phentermine Hydrochloride,3.49,1
+743,Prednisone,2.49,7
+744,CC Cream Broad Spectrum SPF 30,29.99,1
+745,Walgreen Alcohol,3.49,0
+746,PRENATE DHA,59.99,5
+747,Anew Reversalist,5.99,5
+748,Foot Works,2.49,4
+749,Antimicrobial,39.99,4
+750,Antiseptic Mouth Rinse,2.49,6
+751,Levofloxacin,2.99,8
+752,EVOKE Antiperspirant and Deodorant Roll-on,29.99,6
+753,TOPCARE,179.99,4
+754,Cefuroxime Axetil,49.99,6
+755,Buffered Aspirin,39.99,1
+756,Ketorolac Tromethamine,59.99,1
+757,Pain Reliever,24.99,4
+758,Clopidogrel,9.99,7
+759,Ciprofloxacin,2.69,7
+760,Purgo Satin Foam,29.99,6
+761,Fruit Punch Scented Hand Sanitizer,39.99,9
+762,"Oxygen, Compressed",99.99,1
+763,Advanced Hand Sanitizer,29.99,7
+764,Nabumetone,4.49,3
+765,Carvedilol,22.99,1
+766,Midodrine Hydrochloride,1.89,2
+767,shing-Releev,34.99,6
+768,Trazodone Hydrochloride,5.99,3
+769,Ampicillin,3.49,6
+770,VIRO PLUS,2.29,8
+771,Hydroxyzine Pamoate,44.99,8
+772,TOPCARE,3.49,0
+773,Nasal,4.49,1
+774,SANAFITIL,5.99,1
+775,Hemorrhoidal,6.49,1
+776,Citalopram,6.49,0
+777,Docusate Sodium,3.49,0
+778,Major Ranitidine,4.29,9
+779,ANTI-DANDRUFF SHAMPOO AND CONDITIONER,19.99,7
+780,SPAI-SONS,14.99,7
+781,Ritalin,24.99,4
+782,equaline milk of magnesia,12.99,6
+783,NYSTATIN,19.99,5
+784,Metamucil,3.99,4
+785,Cortomycin,149.99,3
+786,Well at Walgreens Anti-Itch,45,0
+787,Head and Shoulders,2.99,8
+788,"Butalbital, Acetaminophen, and Caffeine",19.99,4
+789,Cover Fx BB Gel Mattfying Anti-Blemish N Deep,39.99,2
+790,ESIKA,15.99,7
+791,Degree,6.49,6
+792,Benztropine Mesylate,45.99,2
+793,Phentermine Hydrochloride,39.99,3
+794,MEFOXIN,2.49,5
+795,Coppertone Wet and Clear Kids,3.79,5
+796,Ibuprofen,3.99,9
+797,Chelidonium Homaccord,22.99,0
+798,SYMPHYTUM OFFICINALE,2.99,9
+799,Family wellness Lice Treatment,2.49,0
+800,Suave,19.99,0
+801,Hog Epithelium,19.99,1
+802,K Phos,24.99,4
+803,ATORVASTATIN CALCIUM,49.99,3
+804,Hydrocodone Bitartrate and Acetaminophen,299.99,6
+805,Haloperidol,19.99,1
+806,"Food - Plant Source, Cashew Nut Anacardium occidentalie",3.99,8
+807,Chlordiazepoxide and Amitriptyline Hydrochloride,3.99,9
+808,MORPHINE SULFATE,24.99,4
+809,HYZAAR,24.99,1
+810,Miconazole Nitrate,39.99,0
+811,Olive Leaf Antibacterial Foaming Hand Wash,39.99,7
+812,Methocarbamol,7.99,6
+813,CAMERA READY,39.99,2
+814,Bon Balm,5.29,4
+815,Dream Eye,4.79,3
+816,PROSCAR,14.99,6
+817,Pleo Muc,22.99,1
+818,"Pollens - Weeds and Garden Plants, Lambs Quarters Chenopodium album",5.99,5
+819,Oxycodone Hydrochloride,39.99,9
+820,Albuterol Sulfate,3.29,9
+821,Testosterone,39.99,5
+822,Dermoplast Pain Relieving,29.99,7
+823,Nasal Decongestant PE,4.49,4
+824,SUN Solar Defense Hydrating,29.99,8
+825,Barley Grain,19.99,6
+826,Lorazepam,4.99,8
+827,OVACE Plus,1.29,8
+828,DAY C,44.99,0
+829,RHUBARB,79.99,7
+830,Iris germanica comp.,89.99,9
+831,Doxorubicin Hydrochloride,4.99,9
+832,Pleo Rub,29.99,1
+833,Cover and Conceal Blemish Concealer,49.99,4
+834,Ongo - Fin,2.49,5
+835,NicAzel Doxy Kit,29.99,0
+836,Antihistimine Allergy,2.39,3
+837,Cetirizine Hydrochloride,4.99,6
+838,dg health nasal,1.99,7
+839,Luminous Goddess Aura BB,3.49,1
+840,Levocetirizine Dihydrochloride,2.99,2
+841,Escitalopram,89.99,6
+842,ANTIBACTERIAL FOAMING,69.99,4
+843,Metaproterenol Sulfate,34.99,6
+844,Losartan Potassium,2.49,4
+845,"Food - Plant Source, Tomato Nicotiana spp.",24.99,9
+846,Nizoral,79.99,6
+847,MOZI-Q,129.99,7
+848,Cashew,2.29,6
+849,Magis Lene Brilliant Gold CC Cream XQ,3.29,6
+850,ibuprofen,4.99,1
+851,PROPRANOLOL HYDROCHLORIDE,2.29,7
+852,Allergy Rescue,34.99,5
+853,Amoxicillin,29.99,2
+854,Endopure Testos for Men,79.99,9
+855,TOPCARE,3.99,2
+856,Y-age AEON,39.99,4
+857,HYDRALIFE BB CREME Enhancing Moisturizer For Immediate Beauty SPF 30,4.99,0
+858,8 Small Intestine,2.49,0
+859,Lubricant Eye,2.59,6
+860,"Animal Allergens, AP Cattle Hair and Dander",7.99,6
+861,Jafra,49.99,8
+862,Privigen,15.49,2
+863,Doxycycline Hyclate,19.99,4
+864,acetaminophen pm,4.99,0
+865,TINTED LIP CONDITIONER,9.99,8
+866,Fruit Smoothies,32.99,5
+867,Aspirin,7.99,9
+868,Tretinoin,15.49,4
+869,Hydrocodone Bitartrate and Acetaminophen,24.99,7
+870,Cephalexin,29.99,2
+871,Irbesartan,29.99,5
+872,Abundant Milk,59.99,2
+873,Walgreens Sunscreen,5.99,4
+874,HALOPERIDOL LACTATE,4.99,3
+875,good sense night time,3.29,6
+876,CELLULAR RADIANCE SUNSCREEN SPF 30,4.99,2
+877,Eye Wash,6.49,1
+878,Simply Right Omeprazole,4.29,2
+879,Betamethasone Dipropionate,5.49,4
+880,Doxorubicin Hydrochloride,29.99,7
+881,Remedy Antifungal,3.99,5
+882,Levothyroxine sodium,12.99,1
+883,RISPERIDONE,39.99,8
+884,Boost Remedy Water,15.99,1
+885,Trifluoperazine Hydrochloride,10.99,3
+886,Levetiracetam,4.99,4
+887,Tonsilla compositum,14.99,5
+888,Moexipril Hydrochloride and Hydrochlorothiazide,99.99,9
+889,SPAI-SONS,4.49,9
+890,Asacol,3.79,4
+891,Ursodiol,39.99,0
+892,Presidents Choice,24.99,4
+893,Candesartan cilexetil,49.99,0
+894,Gabapentin,3.99,1
+895,LANOXIN,29.99,7
+896,Metronidazole,19.99,2
+897,HAND AND NATURE SANITIZER,3.99,8
+898,Sensipar,29.99,9
+899,Ibuprofen,19.99,7
+900,Lyrica,1.79,4
+901,AMOREPACIFIC,34.99,0
+902,Lorazepam,1.99,8
+903,AcneFree Clear Skin Treatments,12.99,9
+904,Coppertone ultraGUARD,14.99,9
+905,Elta MD UV Aero,12.99,4
+906,Baclofen,1.99,5
+907,Clonazepam,24.99,8
+908,FLOVENT,22.99,0
+909,LEXAPRO,24.99,9
+910,Ketotifen Fumarate,19.99,5
+911,Doxazosin,12.99,3
+912,Safe Sea Sunscreen With Jellyfish Sting Protective SPF 50,2.69,5
+913,Calcipotriene,99.99,1
+914,Clarinex-D 12 Hour,6.99,3
+915,SELENIUM SULFIDE,39.99,8
+916,Lupron Depot,1.29,6
+917,SUMATRIPTAN SUCCINATE,4.29,9
+918,Penicillium notatum,49.99,1
+919,Western Water Hemp,19.99,4
+920,Instant Hand Sanitizer,49.99,2
+921,Flaxseed,2.19,2
+922,Tremor Plex,6.29,8
+923,Diflunisal,1.99,2
+924,Clindamycin Hydrochloride,5.99,8
+925,LEUKOSEP - SOLX A ADDITIVE SOLUTION,49.99,3
+926,NAPROXEN,3.49,5
+927,Lisinopril,4.49,9
+928,Zinc Sulfate,5.99,0
+929,SPRYCEL,39.99,2
+930,Trazodone Hydrochloride,24.99,8
+931,"BUTALBITAL, ACETAMINOPHEN AND CAFFEINE",4.49,4
+932,ibuprofen,3.49,0
+933,laura mercier Tinted Moisturizer Creme Compact Broad Spectrum SPF 20 Sunscreen ALMOND,2.79,6
+934,Propranolol Hydrochloride,69.99,1
+935,LBEL COULEUR LUXE AMPLIFIER XP,7.99,2
+936,Gongjinhyang Seol Whitening Intensive,39.99,1
+937,Welchol,2.49,6
+938,Phentermine Hydrochloride,39.99,2
+939,Lobelia Inflata,12.99,2
+940,Epinephrine,19.99,3
+941,Carbon Dioxide,39.99,8
+942,Motion Sickness,2.49,5
+943,cold relief,39.99,8
+944,DNA Prime Natural SPF 45,10.99,8
+945,Naruko,79.99,7
+946,Mucus Relief Severe Congestion Cough,2.49,9
+947,Venlafaxine Hydrochloride,3.5,2
+948,SEROQUEL,25.99,9
+949,Neostigmine Methylsulfate,4.29,1
+950,TINTED MOISTURIZER,129.99,2
+951,Cedar X Pet Formula,4.99,5
+952,Sulfasalazine,4.49,2
+953,MS Contin,39.99,3
+954,FERROUS SULFATE,5.79,1
+955,Tekturna,2.99,3
+956,Nitrofurantion Macrocrystals,349.99,8
+957,Dove,4.99,6
+958,Acid Reducer,34.99,2
+959,Kimvent Oral Care Suction Swab pack,4.29,9
+960,ZEMA PAK,2.69,4
+961,Whole Egg,12.99,6
+962,Zep Foam San,99.99,2
+963,Enalapril Maleate,29.99,9
+964,UNITHROID,1.29,5
+965,BUSPIRONE HYDROCHLORIDE,5.99,5
+966,Prednicarbate,39.99,3
+967,GOOD NEIGHBOR PHARMACY ZINC OXIDE,3.59,2
+968,pain relief pm,1.49,7
+969,Hydrocodone Bitartrate And Acetaminophen,24.99,6
+970,Viscum Crataegus,19.99,8
+971,Hydrocodone Bitartrate and Ibuprofen,4.29,6
+972,A PERFECT WORLD,3.99,4
+973,Metronidazole,79.99,4
+974,Systane,49.99,9
+975,Strength M,15.99,3
+976,Sodium Chloride,59.99,3
+977,Folic Acid,49.99,9
+978,Urea,3.29,5
+979,Neostigmine Methylsulfate,15.99,4
+980,hydrocodone bitartrate and acetaminophen,5.49,6
+981,Lovastatin,24.99,4
+982,GUNA-ADDICT 1,19.99,8
+983,EpiCare Antimicrobial Lotion Soap,39.99,1
+984,CounterAct,24.99,8
+985,Indiclor,0.75,5
+986,Topiramate,24.99,2
+987,Acetaminophen Sinus Congestion and Pain Daytime,39.99,0
+988,INVEGA,25.99,5
+989,GMC Medical,199.99,1
+990,Academy,4.99,0
+991,PHYTOGENIC INFINITE FOUNDATION,34.99,3
+992,NALTREXONE HYDROCHLORIDE,69.99,0
+993,Atropine Sulfate,3.99,5
+994,Fosphenytoin,39.99,7
+995,Treatment Set TS351201,22.99,9
+996,Disney PIXAR Monsters University Antibacterial Hand Wipes,49.99,1
+997,HYDROCORTISONE,18.99,4
+998,Lovastatin,2.49,5
+999,TOPIRAMATE,39.99,6
+1000,Plum,2.29,9
