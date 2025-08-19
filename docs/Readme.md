@@ -19,3 +19,4 @@ The purpose is to provide a structured system for managing orders, inventory sto
 
 
 Here's a Link to My ERD. 
+https://github.com/EmilyC206/database-design-project-EMILY/blob/main/eer/EER%20Project%20Design%202.png
