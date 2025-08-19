@@ -1,10 +1,10 @@
 <H1> First Aid Order Database <H1/>
 
 Project Description
-This database project is designed to manage a small business's inventory and order processing system for first aid products. It tracks product inventory, customer information, order details, and shipment tracking to ensure smooth operations from purchase to delivery. The database also sets the foundation for future customer service tracking.
+This database project is for the SQL database of a first aid business complete with mockdata.
 
 ## Purpose
-The purpose is to provide a structured system for managing orders, inventory stock levels, customer details, and shipment information. My eventual goal is to support efficient customer relationship management.
+The purpose is to provide a structured database for managing orders, inventory stock levels, customer details, and shipment information. My eventual goal is to support efficient customer relationship management.
 
 ## Technology Used
 - MySQL / MYSQL WorkBench
