@@ -1,57 +1,21 @@
-Hello World
+<H1> First Aid Order Database <H1/>
 
-There are a total of 4 tables: 
-- Shipment
-- Customer
-- Inventory
-- Order Processing
+Project Description
+This database project is designed to manage a small business's inventory and order processing system for first aid products. It tracks product inventory, customer information, order details, and shipment tracking to ensure smooth operations from purchase to delivery. The database also sets the foundation for future customer service tracking.
 
-Shipment would be 1:1 with Order Processing. 
-Customer matches 1:Many with Shipment
-Inventory is 1:1 with order processing
-Order Processing is 1:Many with Shipment and Customer
+## Purpose
+The purpose is to provide a structured system for managing orders, inventory stock levels, customer details, and shipment information. My eventual goal is to support efficient customer relationship management.
 
-I got rid of the permissions table as I will be using mock data. The only permissions class would be myself.
-There are also some future tables I would like to build in future revisions such as customer service. I wrote out a table utilizing dedicated customer service staff in the future.
+## Technology Used
+- MySQL / MYSQL WorkBench
+- Git / Github
 
-
-**Data Requirements** / Functional Goal
-
-| Types of data                    | Columns in the table                                                           | Table's functional goal                                                                                                                                                                                               |
-| -------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inventory                        | Product_ID, Product_Name, Price_$, Stock_level, Expiry_Date,                   | The goal is to tracks inventory and eventually automate re-ordering<br><br>This is a one to many type table.                                                                                                          |
-| **Customer Resource Management** | Customer_ID, Name, Email, Address, Phone, Purchase_History                     | I need to know these details with a customer ID to obfuscate the PII in this database.<br><br>This is a one to many type table.                                                                                       |
-| Order Processing Internal        | Order_ID, Customer_ID, Product_ID, Quantity, Date, Status, Total_Amount        | foreign key here links to customers/products correctly.<br><br>This is a one to many type table.                                                                                                                      |
-
-| Shipment                         | Shipment_ID, Order_ID, Shipped_Date, Carrier, Tracking_Info                    | Shipments link orders to delivery details; tracking info present.<br><br>This is a many to one table to order. There can only be one order, but it might be split into more than one shipment.                        |
-| Customer Support                 | Ticket_ID, Customer_ID, Issue_Type, Date, Status, Resolution                   | All tickets linked to a customer and resolved promptly.<br><br>This is a many to one table where we may have more than one compliant per order. But, this is a stretch goal beyond this class.<br>                    |
+## How to Run the SQL Scripts. 
+-- I recommend Starch Press "MYSQL Crash Course", but you can follow the below steps
+1. Ensure you have a compatible SQL database server (such as MySQL workbench) installed.
+2. Clone this repository to your local machine (GITHUB Desktop)
+3. Navigate to the `/sql` folder
+6. Use the scripts in this folder to perform queries.
 
 
-
-## Data Source, Column Name, Description of it, and usage envisioned.
-
-| Table / category                 | Column              | Description                                                         | Data Source                                                                   | Individual usage to Category                                                                                                                                            |
-| -------------------------------- | ------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Inventory                        | Product_ID          | Unique identifier for each product                                  | NAR wholesaler-supplied                                                       | Primary key for product identification                                                                                                                                  |
-| Inventory                        | Product_Name        | Commercial name of the first aid product                            | NAR wholesaler-supplied                                                       | enables us to actually know what product it is                                                                                                                          |
-| Inventory                        | Price_$             | Current selling price in dollars                                    | Uncle. I would say we usually apply a percentage markup across each category. | Calculates order totals. It needs to support only up to 2 decimals.                                                                                                     |
-| Inventory                        | Stock_level         | Current quantity available in inventory                             | Inventory management system                                                   | Tracks availability and in the future I want it to trigger reorder alerts                                                                                               |
-| Inventory                        | Expiry_Date         | Product expiration date                                             | NAR wholesaler-supplied                                                       | We can't have expired products.                                                                                                                                         |
-| **Customer Resource Management** | Customer_ID         | Primary identifier for each customer                                | System-generated                                                              | Primary key for customer identification and order linking                                                                                                               |
-| **Customer Resource Management** | DELIVERY_Name       | Customer's full name                                                | order form                                                                    | We need this on the shipping label                                                                                                                                      |
-| **Customer Resource Management** | Email               | Customer's email address                                            | order form                                                                    | Enables a point of data lookup                                                                                                                                          |
-| **Customer Resource Management** | Address             | Customer's physical/shipping address                                | order form                                                                    | We need this on the shipping label                                                                                                                                      |
-| **Customer Resource Management** | Phone               | Customer's contact phone number                                     | order form                                                                    | We need this on the shipping label                                                                                                                                      |
-| **Customer Resource Management** | Purchase_History_ID | Record of previous customer purchases                               | System-generated                                                              | foreign key we can link with all of the order on same name & email match                                                                                                |
-| **Order Processing internal**    | Order_ID            | Unique identifier for each order                                    | System-generated                                                              | Primary key for order tracking and shipment linking                                                                                                                     |
-| **Order Processing internal**    | Customer_ID         | Links order to specific customer                                    | Customer management system                                                    | Connects orders to customer records for service and history                                                                                                             |
-| **Order Processing internal**    | Product_ID          | Links order to specific product                                     | Product management system                                                     | Identifies which products ordered                                                                                                                                       |
-| **Order Processing internal**    | Quantity            | Number of units ordered                                             | Customer order input                                                          | Determines fulfillment requirements and calculates totals                                                                                                               |
-| **Order Processing internal**    | Date_Placed         | Whenever the order was received via the order form on google sheets | System-generated                                                              | Supports our ability to measure metrics going forward in the future. It's a want.<br><br>Better question is whether I am able to import CVS from google sheet into SQL? |
-| **Order Processing internal**    | Status              | Current state of order processing                                   | Order management workflow                                                     | Supports our ability to measure metrics going forward in the future. It's a want.                                                                                       |
-| **Order Processing internal**    | Total_Amount        | Complete financial value of order                                   | Calculated from price and quantity                                            | Tracks revenue and supports financial reporting                                                                                                   |
-| **Shipment Tracking**            | Shipment_ID         | Unique identifier for each shipment                                 | System-generated                                                              | Primary key for shipment tracking and order linking                                                                                                                     |
-| **Shipment Tracking**            | Order_ID            | Links shipment to specific order                                    | database connection                                                           | foreign key to connect to the order                                                                                                                                     |
-| **Shipment Tracking**            | Shipped_Date        | When order was picked up or dropped off                             | carrier / uncle                                                               | future metrics                                                                                                                                                          |
-| **Shipment Tracking**            | Carrier             | Shipping company handling delivery                                  | carrier information                                                           | Let's me know who to call when things are missing.                                                                                                                      |
-| **Shipment Tracking**            | Tracking_Info       | Carrier's tracking number/details                                   | carrier information                                                           | Enables real-time status track                                     
+Here's a Link to My ERD. 
