@@ -5,11 +5,13 @@ There are a total of 4 tables:
 - Customer
 - Inventory
 - Order Processing
+- Problems
 
 Shipment would be 1:1 with Order Processing. 
 Customer matches 1:Many with Shipment
 Inventory is 1:1 with order processing
 Order Processing is 1:Many with Shipment and Customer
+Problems is many:1 with Orders.
 
 I got rid of the permissions table as I will be using mock data. The only permissions class would be myself.
 There are also some future tables I would like to build in future revisions such as customer service. I wrote out a table utilizing dedicated customer service staff in the future.
