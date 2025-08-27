@@ -1,6 +1,6 @@
 DESIGN DOCUMENT
 
-There are a total of 4 tables: 
+There are a total of 5 tables: 
 - Shipment
 - Customer
 - Inventory
