@@ -31,7 +31,7 @@ SELECT
 FROM Orders;
 
 -- Query 3; I generate a view for pending shipments outbound that have not shipped.
-CREATE VIEW Pending_Not_Shipped_Orders AS
+CREATE OR REPLACE VIEW Pending_Not_Shipped_Orders AS
 SELECT O.*
 FROM Orders AS O
 LEFT JOIN Shipment AS S ON O.Order_ID = S.order_id
@@ -42,12 +42,9 @@ WHERE O.Status = 'Pending' AND S.order_id IS NOT NULL;
 SELECT *
 FROM Pending_Not_Shipped_Orders;
 
+-- Query 4 I create a view for troubleshooting delivery orders with customer info.
 
-DROP VIEW Pending_Not_Shipped_Orders;
-
--- Query 4 I create a view for trouble shooting delivery orders with
-
-CREATE VIEW Problems_With_Customer AS
+CREATE OR REPLACE VIEW Problems_With_Customer AS
 SELECT 
     P.ISSUE_ID,
     P.order_id,
@@ -63,14 +60,10 @@ SELECT COUNT(DISTINCT ISSUE_ID) AS Resolved_Issues_Count
 FROM Problems_With_Customer
 WHERE resolved = TRUE;
 
--- Query 5 Find out Inventory Level is ) so I can reorder products.
-SELECT ProductID, Product_name, Stock_Level, Price$
+-- Query 5 Find out which products have an Inventory Level of 0 so I can reorder them.
+SELECT ProductID, Product_name, Stock_Level, `Price$`
 FROM Inventory
-WHERE Stock_Level = 0 ;
-
-
-
-
+WHERE Stock_Level = 0;
 
 
 

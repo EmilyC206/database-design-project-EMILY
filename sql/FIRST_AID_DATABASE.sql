@@ -2,10 +2,8 @@
 CREATE DATABASE IF NOT EXISTS first_aid_business;
 USE first_aid_business;
 
--- Emergency Drop Database if errors
-DROP DATABASE first_aid_business;
-
 -- Drop tables if they already exist (for refresh/testing purposes)
+DROP TABLE IF EXISTS Problems;
 DROP TABLE IF EXISTS Shipment;
 DROP TABLE IF EXISTS Orders;
 DROP TABLE IF EXISTS Inventory;
@@ -20,10 +18,6 @@ CREATE TABLE Customer (
     phone_number       VARCHAR(25),
     birthdate          DATE
 );
-
-Select * 
-FROM Customer;
-
 
 INSERT INTO Customer (customer_id, first_name, last_name, email, phone_number, birthdate) VALUES
 (1, 'Ammamaria', 'Ebbage', 'aebbage0@360.cn', '245-611-4415', '1958-11-30'),
@@ -78,19 +72,17 @@ INSERT INTO Customer (customer_id, first_name, last_name, email, phone_number, b
 (50, 'Mike', 'Comazzo', 'mike@prnewswire.com', '407-555-5801', '1990-03-03');
 
 
--- Insert Mock Customer
-
 -- Create Inventory (Products) table
 CREATE TABLE Inventory (
     ProductID          INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     Product_name       VARCHAR(150) NOT NULL,
-    Price$             DECIMAL(10,2) NOT NULL,
+    `Price$`           DECIMAL(10,2) NOT NULL,
     Stock_Level        INT NOT NULL
 );
 
--- Insert mock inventroy
+-- Insert mock inventory
 
-INSERT INTO Inventory (ProductID, Product_name, Price$, Stock_Level) VALUES
+INSERT INTO Inventory (ProductID, Product_name, `Price$`, Stock_Level) VALUES
 (1, 'SALSOLA KALI POLLEN', 2.99, 1),
 (2, 'Alprazolam', 5.99, 8),
 (3, 'Ibuprofen and Pseudoephedrine Hydrochloride', 249.99, 2),
